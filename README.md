@@ -1,4 +1,4 @@
 # GITHUB-IBSON
 
 Primeiro Repositório
-Linha alterada diretono site GITHUB
+Linha alterada direto no site GITHUB
